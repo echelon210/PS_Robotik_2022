@@ -1,7 +1,5 @@
 import numpy as np
 import cv2
-import torch
-import torch.nn.functional as F
 import torchvision.transforms as transforms
 import torchvision
 import torch
@@ -19,7 +17,7 @@ class Drive:
             cv2.createTrackbar('steerProp', 'Jetbot Dashboard', 10, 100, lambda x: 0)
             cv2.createTrackbar('steerDer', 'Jetbot Dashboard', 20, 100, lambda x: 0)
             cv2.createTrackbar('speedVar', 'Jetbot Dashboard', 0, 100, lambda x: 0)
-        
+
 
 # Initialize CNN:
 model = torchvision.models.squeezenet1_1(pretrained=False)

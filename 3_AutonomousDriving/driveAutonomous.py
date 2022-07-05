@@ -6,6 +6,7 @@ import cv2
 from camera_pipeline import *
 import time
 import numpy as np
+from jetbot import *
 
 # CREATE DASHBOARD
 cv2.namedWindow("Jetbot Dashboard")

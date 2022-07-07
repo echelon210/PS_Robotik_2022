@@ -43,5 +43,4 @@ will reflect on some road surfaces. Because we had to use lego streets to build 
 But if this is not the case or when the parameters of the algorithm are very well tuned the road following with this
 approach can be really precise and even faster than the approach with CNNs. This is due to the low computational 
 effort the procedure needs so that you can set higher frame rates for the camera. For example
-
-![alt text](https://github.com/echelon210/PS_Robotik_2022/blob/main/2_RoadFollowing/documentation/drivingWithOpenCV.mp4)
+![alt text](https://github.com/echelon210/PS_Robotik_2022/blob/main/2_RoadFollowing/documentation/drivingWithOpenCV.gif)

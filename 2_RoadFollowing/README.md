@@ -21,7 +21,7 @@ collection session.
 
 To ensure a good approximation a lot of training pictures are necessary. Around 1500 pictures should give a very good
 generalization. But with even less pictures the jetbot will also drive sufficiently precise in the environment it was
-trained in.
+trained in. Examples for the data can be found in datasets/exampleDataset.
 
 ### Step 2: Training process
 With the collected data from step 1 a CNN can be trained for regression on the steering angle. It is recommended to copy
@@ -42,5 +42,7 @@ This can be a really hard task when you are trying to drive the jetbot in areas 
 will reflect on some road surfaces. Because we had to use lego streets to build tracks this was quite a problem.
 But if this is not the case or when the parameters of the algorithm are very well tuned the road following with this
 approach can be really precise and even faster than the approach with CNNs. This is due to the low computational 
-effort the procedure needs so that you can set higher frame rates for the camera. For example
+effort the procedure needs so that you can set higher frame rates for the camera. For example in the following
+video the jetbot drove about 0.32% of the maximum available motor power.
+
 ![alt text](https://github.com/echelon210/PS_Robotik_2022/blob/main/2_RoadFollowing/documentation/drivingWithOpenCV.gif)

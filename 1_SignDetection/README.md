@@ -13,8 +13,8 @@ from a different computer within the same network type <ip_address>:8888 in the 
 
 ![alt text](https://github.com/echelon210/PS_Robotik_2022/blob/main/1_SignDetection/documentation/signs.jpeg?raw=true)
 
-For a solid detection we collected 7250 training pictures with 1000 pictures for every sign and 1200 pictures for 
-situations without any sign. Examples for the data can be found in datasets/exampleDataset. 
+For a solid detection we collected 7250 training pictures with around 1000 pictures for every sign and around 1200 
+pictures for situations without any sign. Examples for the data can be found in datasets/exampleDataset. 
 
 ### Step 2: Training process
 With the collected data from step 1 a CNN can be trained to classify the incoming camera pictures. It is recommended to 

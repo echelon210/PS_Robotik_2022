@@ -25,3 +25,6 @@ For the 7250 pictures, a squeezenet of version 1.1 and the following hyperparame
 this:
 
 ![alt text](https://github.com/echelon210/PS_Robotik_2022/blob/main/1_SignDetection/documentation/trainingSignDetection.png?raw=true)
+
+### Step 3: Deployment
+The model can be deployed by using the detection.ipynb notebook. 

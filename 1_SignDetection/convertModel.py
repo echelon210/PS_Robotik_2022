@@ -12,8 +12,8 @@ NUMBER_OF_OUTPUTS = 7  # 7 for sign detection or 1 for road following
 
 # Initialize model depending on input model type
 if MODEL_TYPE == 'squeezenet':
-    model = torchvision.models.squeezenet1_1(pretrained = False)
-    model.classifier[1] = torch.nn.Conv2d(512, NUMBER_OF_OUTPUTS, kernel_size = 1)
+    model = torchvision.models.squeezenet1_1(pretrained=False)
+    model.classifier[1] = torch.nn.Conv2d(512, NUMBER_OF_OUTPUTS, kernel_size=1)
     model.num_classes = NUMBER_OF_OUTPUTS
 elif MODEL_TYPE == 'resnet':
     model = torchvision.models.resnet18(pretrained=False)

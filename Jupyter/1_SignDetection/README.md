@@ -11,7 +11,7 @@ from a different computer within the same network type <ip_address>:8888 in the 
 - attention sign
 - no sign detected
 
-![alt text](https://github.com/echelon210/PS_Robotik_2022/blob/main/1_SignDetection/documentation/signs.jpeg?raw=true)
+![alt text](https://github.com/echelon210/PS_Robotik_2022/blob/main/Jupyter/1_SignDetection/documentation/signs.jpeg?raw=true)
 
 For a solid detection we collected 7250 training pictures with around 1000 pictures for every sign and around 1200 
 pictures for situations without any sign. Examples for the data can be found in datasets/exampleDataset. 
@@ -24,7 +24,7 @@ another computer use the trainDriving.py.
 For the 7250 pictures, a squeezenet of version 1.1 and the following hyperparameters the training process looked like 
 this:
 
-![alt text](https://github.com/echelon210/PS_Robotik_2022/blob/main/1_SignDetection/documentation/trainingSignDetection.png?raw=true)
+![alt text](https://github.com/echelon210/PS_Robotik_2022/blob/main/Jupyter/1_SignDetection/documentation/trainingSignDetection.png?raw=true)
 
 ### Step 3: Deployment
 The model can be deployed by using the detection.ipynb notebook. 

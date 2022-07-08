@@ -17,7 +17,7 @@ and the trajectory (red). The upper left window displays the color filter. This 
 HSV values in an unknown environment. Moreover the terminal displays the number of images collected in the current 
 collection session.
 
-![alt text](https://github.com/echelon210/PS_Robotik_2022/blob/main/2_RoadFollowing/documentation/exampleDataCollection.png?raw=true)
+![alt text](https://github.com/echelon210/PS_Robotik_2022/blob/main/Jupyter/2_RoadFollowing/documentation/exampleDataCollection.png?raw=true)
 
 To ensure a good approximation a lot of training pictures are necessary. Around 1500 pictures should give a very good
 generalization. But with even less pictures the jetbot will also drive sufficiently precise in the environment it was
@@ -45,4 +45,4 @@ approach can be really precise and even faster than the approach with CNNs. This
 effort the procedure needs so that you can set higher frame rates for the camera. For example in the following
 video the jetbot drove about 0.32% of the maximum available motor power.
 
-![alt text](https://github.com/echelon210/PS_Robotik_2022/blob/main/2_RoadFollowing/documentation/drivingWithOpenCV.gif)
+![alt text](https://github.com/echelon210/PS_Robotik_2022/blob/main/Jupyter/2_RoadFollowing/documentation/drivingWithOpenCV.gif)

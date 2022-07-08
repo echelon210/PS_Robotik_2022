@@ -1,4 +1,5 @@
 ### Robotikseminar
+Installed OS (Ubuntu 20.04 adapted to Jetbot): https://qengineering.eu/install-ubuntu-20.04-on-jetson-nano.html
 
 ## Run Test Project
 1) In all new terminals 

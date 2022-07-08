@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a5f25e9d-da0b-45a4-a7ad-b84312c3af56" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Convolutional/networks.py" beforeDir="false" afterPath="$PROJECT_DIR$/Convolutional/networks.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/ImageSearch/Test/G/G397.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/ImageSearch/Test/G/G398.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/ImageSearch/Test/G/G399.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/ImageSearch/Test/G/G400.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/ImageSearch/Test/G/G401.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/ImageSearch/Test/G/G402.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/ImageSearch/Test/G/G403.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/ImageSearch/Test/G/G404.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/ImageSearch/Test/G/G405.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/ImageSearch/Test/G/G406.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/ImageSearch/Test/G/G407.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/ImageSearch/Test/G/G408.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/ImageSearch/Test/G/G409.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/ImageSearch/Test/G/G410.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/ImageSearch/Test/G/G411.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/ImageSearch/Test/G/G412.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/ImageSearch/Test/G/G413.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/ImageSearch/Test/G/G414.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/ImageSearch/Test/G/G415.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/ImageSearch/Test/G/G416.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/ImageSearch/Test/G/G417.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/ImageSearch/Test/G/G418.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/ImageSearch/Test/G/G419.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/ImageSearch/Test/G/G420.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/ImageSearch/Test/G/G421.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/ImageSearch/Test/G/G422.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/ImageSearch/Test/G/G423.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/ImageSearch/Test/G/G424.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/ImageSearch/Test/G/G425.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/ImageSearch/Test/G/G426.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/ImageSearch/Test/G/G427.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/ImageSearch/Test/G/G428.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/ImageSearch/Test/G/G429.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/ImageSearch/Test/G/G430.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/ImageSearch/Test/G/G431.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/ImageSearch/Test/G/G432.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/ImageSearch/Test/G/G433.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/ImageSearch/Test/G/G434.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/ImageSearch/Test/G/G435.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/ImageSearch/Test/G/G436.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/ImageSearch/Test/G/G437.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/ImageSearch/Test/G/G438.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/ImageSearch/Test/G/G439.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/ImageSearch/Test/G/G440.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/ImageSearch/Test/G/G441.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/ImageSearch/Test/G/G442.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/ImageSearch/Test/G/G443.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/ImageSearch/Test/G/G444.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/ImageSearch/Test/G/G445.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/ImageSearch/Test/G/G446.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/ImageSearch/Test/G/G447.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/ImageSearch/Test/G/G448.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/ImageSearch/Test/G/G449.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/ImageSearch/Test/G/G450.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/ImageSearch/Test/G/G451.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/ImageSearch/Test/G/G452.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/ImageSearch/Test/G/G453.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/ImageSearch/Test/G/G454.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/ImageSearch/Test/G/G455.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/ImageSearch/Test/G/G456.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/ImageSearch/Test/G/G457.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/ImageSearch/Test/G/G458.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/ImageSearch/Test/G/G459.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/ImageSearch/Test/G/G460.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/ImageSearch/Test/G/G461.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/ImageSearch/Test/G/G462.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/ImageSearch/Test/G/G463.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/ImageSearch/Test/G/G464.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/ImageSearch/Test/G/G465.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/ImageSearch/Test/G/G466.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/ImageSearch/Test/G/G467.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/ImageSearch/Test/G/G468.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/ImageSearch/Test/G/G469.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/ImageSearch/Test/G/G470.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/ImageSearch/Test/G/G471.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/ImageSearch/Test/G/G472.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/ImageSearch/Test/G/G473.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/ImageSearch/Test/G/G474.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/ImageSearch/Test/G/G475.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/ImageSearch/Test/G/G476.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/ImageSearch/Test/G/G477.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/ImageSearch/Test/G/G478.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/ImageSearch/Test/G/G479.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/ImageSearch/Test/G/G480.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/ImageSearch/Test/G/G481.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/ImageSearch/Test/G/G482.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/ImageSearch/Test/G/G483.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/ImageSearch/Test/G/G484.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/ImageSearch/Test/G/G485.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/ImageSearch/Test/G/G486.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/ImageSearch/Test/G/G487.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/ImageSearch/Test/G/G488.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/ImageSearch/Test/G/G489.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/ImageSearch/Test/G/G490.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/ImageSearch/Test/G/G491.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/ImageSearch/Test/G/G492.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/ImageSearch/Test/G/G493.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/ImageSearch/Test/G/G494.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/ImageSearch/Test/G/G495.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2B3g4D19ZVfXFQj4QwCgexf36h2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../DeepLearningProjekt" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TrafficSigns" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a5f25e9d-da0b-45a4-a7ad-b84312c3af56" name="Default Changelist" comment="" />
+      <created>1656139989501</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1656139989501</updated>
+      <workItem from="1656139990894" duration="1960000" />
+      <workItem from="1656141989846" duration="122000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>55</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/TrafficSigns$main.coverage" NAME="main Coverage Results" MODIFIED="1656141926303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
